@@ -1,4 +1,4 @@
-import ContentWrapper from "../../../components/contentWrapper/ContentWrapper"
+import ContentWrapper from "../../../components/contentWrapper/contentWrapper";
 import SwitchTabs from "../../../switchTabs/SwitchTabs"
 import useFetch from "../../../hooks/useFetch"
 import { useState } from "react";
